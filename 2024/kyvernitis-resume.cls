@@ -77,6 +77,16 @@
     \href{mailto:#1}{\textcolor{black}
     {\faEnvelope[regular]}\hspace{0.5em}#1}
 }
+
+\newcommand{\emailperson}[1]{
+    \href{mailto:#1}{\textcolor{black}
+    {\faEnvelope[regular]}\hspace{0.5em}#1}
+}
+
+\newcommand{\emailacademic}[1]{
+    \href{mailto:#1}{\textcolor{black}
+    {\faEnvelope[solid]}\hspace{0.5em}#1}
+}
 \newcommand{\github}[1]{
     \href{https://github.com/#1}{\textcolor{black}
     {\faGithub}\hspace{0.5em}#1}
@@ -97,7 +107,8 @@
     \textcolor{black}{\faPhone*}\hspace{0.5em}#1
 }
 \newcommand{\nationality}[1]{
-    \textcolor{black}{\faFlagUsa}\hspace{0.5em}#1
+    % \textcolor{black}{\faFlagUsa}\hspace{0.5em}#1
+    \textcolor{black}{\faGlobe }\hspace{0.5em}#1
 }
 \newcommand{\address}[1]{
     \textcolor{black}{\faMapMarker*}\hspace{0.5em}#1
