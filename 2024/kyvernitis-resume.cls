@@ -1,6 +1,7 @@
 % Class Identifier and Version
 \ProvidesClass{kyvernitis-resume}[2023/06/06 Kyvernitis class]
 \NeedsTeXFormat{LaTeX2e}
+\usepackage{fontawesome5}
 
 % Set font size and paper type
 \LoadClass[11pt,letterpaper]{article}
@@ -85,7 +86,7 @@
 
 \newcommand{\emailacademic}[1]{
     \href{mailto:#1}{\textcolor{black}
-    {\faEnvelope[solid]}\hspace{0.5em}#1}
+    {\faEnvelopeOpen[regular]}\hspace{0.5em}#1}
 }
 \newcommand{\github}[1]{
     \href{https://github.com/#1}{\textcolor{black}
@@ -112,6 +113,10 @@
 }
 \newcommand{\address}[1]{
     \textcolor{black}{\faMapMarker*}\hspace{0.5em}#1
+}
+\newcommand{\ORCiD}[1]{
+        \href{https://orcid.org/my-orcid?orcid=}{\textcolor{black}
+        {\faOrcid}\hspace{0.5em}#1}
 }
 
 % Define commands for fullname and job title
