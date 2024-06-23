@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.1.25)  23 JUN 2024 16:13
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.1.25)  23 JUN 2024 17:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/guanliyuan/Documents/GitHub/CV/2024/6June/ZhipingWANG_May_2024
-(/Users/guanliyuan/Documents/GitHub/CV/2024/6June/ZhipingWANG_May_2024.tex
+**/Users/guanliyuan/Documents/GitHub/CV/2024/6June/ZhipingWANG_June_2024
+(/Users/guanliyuan/Documents/GitHub/CV/2024/6June/ZhipingWANG_June_2024.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (./kyvernitis-resume.cls
 Document Class: kyvernitis-resume 2023/06/06 Kyvernitis class
@@ -700,8 +700,8 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 )
 LaTeX Font Info:    Font shape `TU/FiraSans(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 18.
- (./ZhipingWANG_May_2024.aux)
-\openout1 = `ZhipingWANG_May_2024.aux'.
+ (./ZhipingWANG_June_2024.aux)
+\openout1 = `ZhipingWANG_June_2024.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
@@ -819,9 +819,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 18.
 Package hyperref Info: Link coloring ON on input line 18.
-(./ZhipingWANG_May_2024.out) (./ZhipingWANG_May_2024.out)
+(./ZhipingWANG_June_2024.out) (./ZhipingWANG_June_2024.out)
 \@outlinefile=\write3
-\openout3 = `ZhipingWANG_May_2024.out'.
+\openout3 = `ZhipingWANG_June_2024.out'.
 
 
 
@@ -989,17 +989,17 @@ Package xcolor Warning: Incompatible color definition on input line 238.
 
 Package xcolor Warning: Incompatible color definition on input line 238.
 
-[2] (./ZhipingWANG_May_2024.aux)
-Package rerunfilecheck Info: File `ZhipingWANG_May_2024.out' has not changed.
+[2] (./ZhipingWANG_June_2024.aux)
+Package rerunfilecheck Info: File `ZhipingWANG_June_2024.out' has not changed.
 (rerunfilecheck)             Checksum: 67647F8D6E18323C0D3EA94DB8A4F1FC;3078.
  ) 
 Here is how much of TeX's memory you used:
  15521 strings out of 476683
- 300095 string characters out of 5804047
+ 300112 string characters out of 5804047
  1870018 words of memory out of 5000000
  35456 multiletter control sequences out of 15000+600000
  522543 words of font info for 129 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 85i,15n,126p,585b,378s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,15n,126p,586b,378s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on ZhipingWANG_May_2024.pdf (2 pages).
+Output written on ZhipingWANG_June_2024.pdf (2 pages).
